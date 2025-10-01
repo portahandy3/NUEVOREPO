@@ -1,0 +1,12 @@
+{
+  "name": "urbanaplay-clon",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npx next dev",
+    "build": "cd frontend && npx next build",
+    "start": "cd frontend && npx next start"
+  },
+  "dependencies": {
+    "nodemailer": "^7.0.6"
+  }
+}
